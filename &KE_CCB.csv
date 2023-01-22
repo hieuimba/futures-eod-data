@@ -506,4 +506,8 @@ Date,Symbol,Security Name,Open,High,Low,Close,Volume,Open Interest,Delivery Mont
 2023-01-10,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,828,828.5,803.25,811.75,55678,163353,202303
 2023-01-11,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,810.75,823,805.25,822.25,36386,165131,202303
 2023-01-12,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,823.5,839,810.5,835,50690,164576,202303
-2023-01-13,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,832.25,847,832.25,843.75,33599,0,202303
+2023-01-13,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,832.25,847,832.25,843.75,36656,167980,202303
+2023-01-17,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,843.75,858.5,828,855.75,42038,169085,202303
+2023-01-18,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,853.5,866.25,839.75,841.5,41917,170377,202303
+2023-01-19,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,840.75,849.75,831.5,832,35929,173296,202303
+2023-01-20,&KE_CCB,KC HRW Wheat Continuous Contract Backadjusted,832.5,849,823.5,848,29618,0,202303
