@@ -506,4 +506,8 @@ Date,Symbol,Security Name,Open,High,Low,Close,Volume,Open Interest,Delivery Mont
 2023-01-10,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,741.25,742.5,720.5,731,94856,334538,202303
 2023-01-11,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,730.25,742.25,724.5,740,66838,337190,202303
 2023-01-12,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,739,747.25,723,742.75,115806,341478,202303
-2023-01-13,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,743.5,748.5,737.25,743.75,71951,0,202303
+2023-01-13,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,743.5,748.5,737.25,743.75,76190,341288,202303
+2023-01-17,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,742.5,755.75,728.75,751.75,84080,340830,202303
+2023-01-18,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,749,760.25,740.25,742.5,79022,341190,202303
+2023-01-19,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,741.75,748.75,733.5,734.5,78369,341313,202303
+2023-01-20,&ZW_CCB,Chicago SRW Wheat Continuous Contract Backadjusted,735,743,727.75,741.5,60350,0,202303
